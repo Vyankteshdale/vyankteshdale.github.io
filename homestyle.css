@@ -72,7 +72,7 @@ html{
 
 .home{
     display: flex;
-    background: url("ABC12.jpg") no-repeat center;
+    background: url("./assets/ABC12.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
